@@ -21,12 +21,11 @@ The system follows a modern **RAG (Retrieval Augmented Generation)** architectur
 
 ## 🌟 Features
 
-- ** Instant PDF Processing** - Upload and chat with any PDF in seconds
-- ** Natural Conversations** - Ask questions in plain English, get intelligent answers  
+- **🚀 Instant PDF Processing** - Upload and chat with any PDF in seconds
+- **💬 Natural Conversations** - Ask questions in plain English, get intelligent answers  
 - **🧠 Context-Aware Responses** - Maintains conversation history for follow-up questions
 - **⚡ Lightning Fast** - Powered by Groq's ultra-fast LLaMA 3 inference
 - **🎨 Modern UI** - Clean, ChatGPT-inspired interface with dynamic greetings
-- **📱 Responsive Design** - Works seamlessly on desktop and mobile devices
 
 ---
 
