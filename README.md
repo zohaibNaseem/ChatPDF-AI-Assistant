@@ -1,10 +1,10 @@
-# 🤖 ChatPDF AI - Intelligent Document Conversation Assistant
+#  ChatPDF AI - Intelligent Document Conversation Assistant
 
 > **Upload any large PDF and interact with it—ask questions and get answers powered by AI.**
 
 
 ---
-## 🏗️ Architecture
+##  Architecture
 ![Architecture Diagram](visuals/Architecture.png)
 
 
@@ -19,13 +19,13 @@ The system follows a modern **RAG (Retrieval Augmented Generation)** architectur
 ---
 
 
-## 🌟 Features
+##  Features
 
-- **🚀 Instant PDF Processing** - Upload and chat with any PDF in seconds
-- **💬 Natural Conversations** - Ask questions in plain English, get intelligent answers  
-- **🧠 Context-Aware Responses** - Maintains conversation history for follow-up questions
-- **⚡ Lightning Fast** - Powered by Groq's ultra-fast LLaMA 3 inference
-- **🎨 Modern UI** - Clean, ChatGPT-inspired interface with dynamic greetings
+- *** Instant PDF Processing** - Upload and chat with any PDF in seconds
+- *** Natural Conversations** - Ask questions in plain English, get intelligent answers  
+- *** Context-Aware Responses** - Maintains conversation history for follow-up questions
+- *** Lightning Fast** - Powered by Groq's ultra-fast LLaMA 3 inference
+- *** Modern UI** - Clean, ChatGPT-inspired interface with dynamic greetings
 
 ---
 
@@ -41,7 +41,7 @@ The system follows a modern **RAG (Retrieval Augmented Generation)** architectur
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Prerequisites
 
@@ -80,7 +80,7 @@ streamlit run app.py
 ```
 
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 | Component | Technology | Purpose |
 |-----------|------------|---------|
@@ -92,7 +92,7 @@ streamlit run app.py
 | **Embeddings** | [HuggingFace](https://huggingface.co/) | Text-to-vector conversion |
 | **PDF Processing** | [PyMuPDF](https://pymupdf.readthedocs.io/) | PDF text extraction |
 
-## 🔧 Configuration
+##  Configuration
 
 ### Environment Variables (.env)
 ```bash
