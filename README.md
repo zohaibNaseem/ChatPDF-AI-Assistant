@@ -53,8 +53,7 @@ The system follows a modern **RAG (Retrieval Augmented Generation)** architectur
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/your-username/chatpdf-ai.git
-cd chatpdf-ai
+git clone https://github.com/zohaibNaseem/ChatPDF-AI-Assistant.git
 ```
 
 **2. Open in VS Code**  
