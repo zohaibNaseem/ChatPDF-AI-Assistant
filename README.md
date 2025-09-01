@@ -38,8 +38,9 @@ The system follows a modern **RAG (Retrieval Augmented Generation)** architectur
 ### Chat Experience  
 ![Architecture Diagram](visuals/querying.png)
 
-
 ---
+
+
 
 ##  Quick Start
 
